@@ -1,5 +1,4 @@
 import { useState } from "react";
-import useStopwatch from "../../hooks/useStopWatch";
 import Stopwatch from "../watch/Stopwatch";
 import StatusBar from "../statusBar/StatusBar";
 
